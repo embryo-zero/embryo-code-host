@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Code Host
+
+**Embryo Code Host** is Embryo-Zero's fork of [Forgejo](https://codeberg.org/forgejo/forgejo), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
     <img src="./assets/logo.svg" alt="" width="192" align="center" />
     <h1 align="center">Welcome to Forgejo</h1>
